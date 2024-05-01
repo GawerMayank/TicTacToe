@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository (https://github.com/GawerMayank/TicTacToe.git)
 2. Navigate to the project directory cd `TicTacToe`
-3. Open the index.html file in your web browser.
+3. Open the `index.html` file in your web browser.
 4. Click on the grid spaces to mark X or O, taking turns with another player.
 5. The game will automatically detect winning combinations.
 6. Click the "Restart" button to start a new game.
